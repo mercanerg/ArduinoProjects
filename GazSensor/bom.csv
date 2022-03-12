@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1",1,"220 Ω Resistor"
+"U3",1," H-bridge Motor Driver"
+"M1",1," DC Motor"
+"PIEZO1",1," Piezo"
+"GAS1",1," Gas Sensor"
+"R2",1,"10 kΩ Resistor"
+"BAT1",1," 9V Battery"
+"R3",1,"470 Ω Resistor"
+"D1",1,"Red LED"

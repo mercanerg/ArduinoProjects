@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U2",1," Arduino Uno R3"
+"M1",1,"16 DC Motor with Encoder"
+"U1",1," H-bridge Motor Driver"
+"BAT2",1," 9V Battery"
+"S1, S2",2," Pushbutton"
+"R1",1,"2.2 Ω Resistor"
+"R2",1,"2.2 kΩ Resistor"
+"R3, R4, R5, R6",4,"220 Ω Resistor"
+"D1",1,"Orange LED"
+"D2",1,"Yellow LED"
+"D3",1,"Blue LED"
+"D4",1,"Green LED"
